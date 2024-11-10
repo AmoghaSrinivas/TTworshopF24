@@ -8,11 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+takes in two inputs a and b, along with carry_in and gives output across 2 pins, sum and carry_out
 
 ## How to test
-
+to ensure correct working of the full adder , toggle with the inputs , if any two inputs are high , the sum should be LOW and the carry_out should be HIGH 
 Explain how to use your project
 
 ## External hardware
